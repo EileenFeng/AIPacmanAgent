@@ -1,7 +1,12 @@
-BetterRandomAgent on openSearch
+RandomAgent on openSearch
 1st: 631
 2nd: -660
 3rd:-230
+
+BetterRandomAgent on openSearch:
+1st: -271
+2nd: 180
+3rd:-33
 
 tinyMaze for RandomAgent:
 (below is the score for randomAgent on tinyMaze)
